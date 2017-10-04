@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>This is my thing that I did.</title>
+        <link src="styles.css" rel="stylesheet">
+        </head>
+
+   <body>
+        <article id="intro" class="article">
+            I'm the student who is trying not to blowup his computer.
+        </article>
+
+       <article>
+
+       </article id="history" class="article">
+    </body>    
+   </html>
